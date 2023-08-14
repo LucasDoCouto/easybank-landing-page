@@ -59,3 +59,7 @@
   background-image: url("../../assets/img/bg-intro-desktop.svg");
 }
 
+.easybank-btn {
+  background: linear-gradient(90deg, rgb(49,211,92), #2bb7da);
+}
+
